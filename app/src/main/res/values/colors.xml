@@ -10,4 +10,11 @@
 
     <!--SuperHero-->
     <color name="superhero_item_name">#8C673AB7</color>
+    <!--Grafics-->
+    <color name="intelligence">#4CAF50</color>
+    <color name="strength">#FF0000</color>
+    <color name="speed">#FF5722</color>
+    <color name="durability">#2196F3</color>
+    <color name="power">#FFEB3B</color>
+    <color name="combat">#673AB7</color>
 </resources>
